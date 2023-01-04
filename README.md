@@ -1,5 +1,8 @@
 # Applied Machine Learning in Local Supermarket
-[Paper](https://unistackr0-my.sharepoint.com/:b:/g/personal/kimyejin99_unist_ac_kr/EV--mJiAovxNtV9C8qvoqXYBXdLdIBg2UAxGs3MuPRPHug?e=rNBXan), [Presentation](https://unistackr0-my.sharepoint.com/:p:/g/personal/kimyejin99_unist_ac_kr/EXr404d5JmJFgGz10QfMAscBG9t94b8T1SQPhKwbOZnC3g?e=yNR68O)
+
+### **📁 Resources** 
+> - [Paper](./sources/Local_Supermarket_Paper.pdf) <br>
+> - [Presentation](./sources/Local_Supermarket_Presentation.pdf)
 
 ## Abstract
 This project aims to identify the most effective rules and patterns and recommend products by adopting various data mining techniques such as TF-IDF, association rules, and recommendation systems. Also, by providing effective rules and patterns, it will be helpful for supermarkets to retain loyal customers or VIPs. In general, consumers do not just buy one item when they buy a product at a supermarket, but rather buy several types of items at the same time. Therefore, if we can find the correlation between the various types of products that consumers purchase, we can use this to prepare a useful sales strategy. In addition, if retailers know the composition of customers' shopping baskets, they can use them to prepare products or make product arrangement decisions.
