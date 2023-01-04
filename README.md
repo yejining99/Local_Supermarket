@@ -23,7 +23,8 @@ It shows the sales strategy based on the analysis results so far. First of all, 
 3. Display the best-selling products in the back of the store to attract customers to every corner of the store.
 4. Display the products that are difficult to manage inventory such as fruits and vegetables near the entrance and increase the sales rate by attracting interest.
 Also, we improved the product placement. The best-selling confectionery was placed in the center, and correlated products were placed close together.
-![pp](https://user-images.githubusercontent.com/93263147/210555178-998aff63-e627-4682-a117-dfefbb532a98.png)
+![pp(https://user-images.githubusercontent.com/93263147/210555398-783a05f5-9ec8-4891-8e57-3a0bdc417d09.png)
 
 ### Recommendation
 The results of the recommendation system can be utilized as follows. First, when an item arrives in the supermarket, the boss enters the item in the POS system. Then, the program runs a recommendation algorithm based on past customer data. If a new item is likely to be preferred by a customer, each customer will receive the recommendation message. It is good for each customer to be notified about the product they want to buy, and the boss can induce the customer to act on the next purchase, which leads to making profits.
+![rec](https://user-images.githubusercontent.com/93263147/210555421-85f55832-59fb-4487-9483-7727a6ee41c9.png)
